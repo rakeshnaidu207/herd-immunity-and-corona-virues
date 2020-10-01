@@ -1,0 +1,43 @@
+!DOCTYPE html>
+<html>
+  <style>
+  body{
+    background-image: url("images/s.jpg");
+    background-size: 1000px 1000px;
+  }
+  h1{
+    color:rgb(8, 0, 8);
+    text-transform: capitalize;
+    text-align: center;
+  }
+ul{
+  color:yellow;
+  text-transform: capitalize;
+  list-style-type: armenian;
+}
+li{
+  display: inline;
+  margin-right: 90px;
+}
+</style>
+<head>
+<title>herd immunity and corona vaccine
+</title>
+</head>
+
+<body bgcolor="#blue" text="black">
+    <nav>
+      <ul>
+          <li><a href="introduction.html">introduction</a></li>
+          <li><a href="herd immunity.html">Herd immunity</a></li>
+          <li><a href="vaccine.html">vaccine</a></li>
+          <li><a href="stages of vaccine.html">stages of vaccine development</li>
+          <li><a href="coronavirus.html">coronavirus and its symptomes</a></li>
+          <li><a href="vaccine for corona virus.html">vaccine for coronavirus</a></li>
+  
+        </ul>
+      </nav>
+
+<h1>herd immunity and corona vaccine</h1>   
+<body>
+</html>
