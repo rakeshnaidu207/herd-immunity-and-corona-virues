@@ -1,0 +1,42 @@
+DOCTYPE html>
+<html>
+<head>
+    <Title>hard immunity and corona vaccine</Title>
+</head>
+<style>
+    body{
+      background-image: url("images/s.jpg");
+      background-size: 1000px 1000px;
+    }
+    h1{
+        color:rgb(15, 1, 15);
+        text-transform:capitalize;
+    }
+    p{
+        color:rgb(80, 14, 3);
+        text-transform: lowercase;
+    }
+    li{
+  display: inline;
+  margin-right: 90px;
+    } 
+    </style>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="introduction.html">introduction</a></li>
+                <li><a href="herd immunity.html">Herd immunity</a></li>
+                <li><a href="vaccine.html">vaccine</a></li>
+                <li><a href="stages of vaccine.html">stages of vaccine development</li>
+                <li><a href="coronavirus.html">coronavirus and its symptomes</a></li>
+                <li><a href="vaccine for corona virus.html">vaccine for coronavirus</a></li>
+        
+              </ul>
+            </nav>
+    <h1>herd immunity</h1>
+    <p>the resistance to the spread of a contagious diseases within a population that results if a sufficently high proportion of individuals are immune to the disease especially through vaccination</p>
+    <img src="images/himm.jpg" width="500" height="200">
+    <h1>herd immunity in different cities</h1>
+    <img src="images/c.jpg" width="500" height="200">
+    </body>
+</html>
